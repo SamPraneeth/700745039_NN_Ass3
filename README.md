@@ -3,4 +3,4 @@ Neural Networks and Deep Learning Assignment 3
 Name : Sam Praneeth Vangara 
 Id: 700745039
 Code Link : https://github.com/SamPraneeth/700745039_NN_Ass3
-
+Video Link : https://github.com/SamPraneeth/700745039_NN_Ass3/blob/main/700745039.mp4
